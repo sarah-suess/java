@@ -1,0 +1,5 @@
+
+
+For the graphics window, I wanted it to match with the Ice Cream Truck I decided to make for my "food truck." I thought the ice cream cone that I added would be cute.
+
+For the food truck window, I added an option to select if you wanted a waffle cone using a checkbox. The checkbox also clears when the clear button is pressed.
